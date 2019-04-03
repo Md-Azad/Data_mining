@@ -1,0 +1,15 @@
+Data mining:
+Data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.
+
+
+
+Data mining allows you to:
+
+Sift through all the chaotic and repetitive noise in your data.
+Understand what is relevant and then make good use of that information to assess likely outcomes.
+Accelerate the pace of making informed decisions.
+
+
+summary:
+
+Migraine can only be detected by expert medical doctors.But recent studies showed that the migrane analysis can be done aslo by using data mining technique. Migrane headache can be detect using many classification technique ,such as K-NN, SVM ,Random Forest and Naive Bays.
