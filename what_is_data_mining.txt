@@ -14,8 +14,10 @@ summary:
 
 Migraine can only be detected by expert medical doctors.But recent studies showed that the migrane analysis can be done aslo by using data mining technique. Migrane headache can be detect using many classification technique ,such as K-NN, SVM ,Random Forest and Naive Bays.
 
-Data Mining is a non-trivial extraction of implicit previously unknown and potential useful information
-and data. It is process of analyzing data from different perspective and gathering the knowledge from it. The
-discovered knowledge can be used for different application for examples health care industry. Now a day’s
-health care industry generates large amount of data about patient’s disease diagnosis. A major challenge facing health care industry is quality of service. Quality of services implies diagnosis disease correctly and provides effective treatments to patients. The diagnosis is often made based on doctor’s experience and knowledge. This leads to unwanted
-results and excessive medical loss of treatments provided to patients. Therefore the prediction of different types of headache blood pressure, blood sugar .The data mining provides lots of technique for mine data is several field the technique of mining as association rule mining, clustering technique, classification technique.
+Data Mining is a non-trivial extraction of implicit previously unknown and potential useful information and data. It is process of analyzing data from different perspective and gathering the knowledge from it. The discovered knowledge can be used for different application for examples health care industry. Now a day’s health care industry generates large amount of data about patient’s disease diagnosis. A major challenge facing health care industry is quality of service. Quality of services implies diagnosis disease correctly and provides effective treatments to patients. The diagnosis is often made based on doctor’s experience and knowledge. This leads to unwanted results and excessive medical loss of treatments provided to patients. Therefore the prediction of different types of headache blood pressure, blood sugar .The data mining provides lots of technique for mine data is several field the technique of mining as association rule mining, clustering technique, classification technique.
+
+Clustering technique:
+clustering technique is the most popular technique in unsupervised learning . In this technique we will provide only data not answer .Machine will find the familarity with traning data and test data .machine will divide into some category depend on some pattern .
+
+Classification Technique :
+Classification technique is a example of supervised learning .In this technique data will divided into two part .training data and test data .with training data we will train machine and we will test the result with test data .
